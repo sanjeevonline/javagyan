@@ -1,4 +1,4 @@
-javagyan/target/
+javagyan/target/*
 *.bak
 .settings/
 .classpath
