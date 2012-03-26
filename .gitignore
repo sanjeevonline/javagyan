@@ -1,0 +1,5 @@
+javagyan/target/
+*.bak
+.settings/
+.classpath
+.project
