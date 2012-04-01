@@ -1,6 +1,6 @@
-/target
+target/
 /checkstyle.xml
-/.settings
+.settings/
 /.classpath
 /.fbprefs
 /.pmd
