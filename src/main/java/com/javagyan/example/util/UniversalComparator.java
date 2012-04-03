@@ -24,9 +24,9 @@ public class UniversalComparator implements Comparator<Object> {
         }
     }
 
-    private transient String methodName = "toString";
+    private String methodName = "toString";
 
-    private transient SortOrder sortOrder = SortOrder.ASC; // default is ASCENDING
+    private SortOrder sortOrder = SortOrder.ASC; // default is ASCENDING
 
     public UniversalComparator(final SortOrder descAscIndicator) {
         this.sortOrder = descAscIndicator;
